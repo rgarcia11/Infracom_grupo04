@@ -1,0 +1,38 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    background-color:darkgray;
+}
+
+.header{
+    background-color: dimgray;
+    text-align: center;
+    height: 300px
+}
+
+.header h1{
+    position: relative;
+    top: 90px;
+    color: aliceblue;
+    font-size: 50px;
+}
+
+.header p{
+    position: relative;
+    top: 80px;
+    color: aliceblue;
+}
+
+.header a{
+    position: relative;
+    top: 80px;
+    color: antiquewhite;
+}
+
+.info{
+    padding: 20px;
+    text-align: center;
+}
