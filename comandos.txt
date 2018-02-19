@@ -1,0 +1,144 @@
+    1  dir
+    2  cd
+    3  cd ..
+    4  dir
+    5  ls
+    6  cd ..
+    7  dir
+    8  yum install httpd -y
+    9  sudo yum install httpd -y
+   10  dir
+   11  cd etc
+   12  dir
+   13  cd init.d
+   14  dir
+   15  sudo /etc/init.d/apache2 start
+   16  apache2 start
+   17  httpd start
+   18  httpd -k start
+   19  sudo httpd -k start
+   20  sudo usr/sbin/apachectl start
+   21  sudo /usr/sbin/apachectl start
+   22  echo $SHELL
+   23  complete -C '/usr/local/bin/aws_completer' aws
+   24  echo "complete -C '/usr/local/bin/aws_completer' aws" >> ~/.bashrc
+   25  source ~/.bashrc
+   26  sudo su
+   27  sudo nano /etc/httpd/conf/httpd.conf
+   28  sudo /usr/sbin/apachectl restart
+   29  sudo /usr/sbin/apachectl restart -j ACCEPT
+   30  sudo iptables -I INPUT -p tcp --dport 
+   31  sudo iptables -I INPUT -p tcp --dport 80 -j ACCEPT
+   32  sudo service iptables save
+   33  wget localhost
+   34  sudo wget localhost
+   35  hostname 
+   36  dir
+   37  cd comandos.txt
+   38  sudo nano comandos.txt 
+   39  ls
+   40  history > comandos.txt
+   41  sudo nano comandos.txt 
+   42  dir
+   43  cd ..
+   44  dir
+   45  cd var
+   46  dir
+   47  cd www
+   48  dir
+   49  cd html
+   50  dir
+   51  DocumentRoot
+   52  sudo nano /etc/httpd/conf/httpd.conf
+   53  "" > index.html
+   54  sudo "" > index.html
+   55  cd ..
+   56  dir
+   57  cd ..
+   58  dir
+   59  sudo nano /etc/httpd/conf/httpd.conf
+   60  chmod 755 /var/www/
+   61  sudo chmod 755 /var/www/
+   62  sudo wget localhost
+   63  dir
+   64  cd www
+   65  dir
+   66  cd html
+   67  "" > index.html
+   68  sudo chmod 777 /var/www/
+   69  "" > index.html
+   70  "" > index.html
+   71  sudo chmod 0750  /var/www/
+   72  sudo chmod 0750 -R  /var/www/
+   73  "" > index.html
+   74  whoami
+   75  id
+   76  sudo chown ec2-user:ec2-user -R /var/www/
+   77  "" > index.html
+   78  wget localhost
+   79  service httpd restart
+   80  sudo /usr/sbin/apachectl restart
+   81  service httpd restart
+   82  httpd stop
+   83  sudo service httpd stop
+   84  sudo service httpd start
+   85  wget localhost
+   86  dir
+   87  ll
+   88  cd ..
+   89  ll
+   90  cd ..
+   91  ll
+   92  cd ..
+   93  ll
+   94  chmod 777 var
+   95  sudo chmod 777 var
+   96  ll
+   97  wget localhost
+   98  service iptables status
+   99  sudo service iptables status
+  100  curl localhost
+  101   chmod 0750 -R /var/www/
+  102  curl localhost
+  103  sudo service httpd restart
+  104  curl localhost
+  105  getenforce
+  106  sudo nano /etc/httpd/conf/httpd.conf 
+  107  sudo service httpd restart
+  108  curl hostname
+  109  curl localhost
+  110  wget localhost
+  111  pwd
+  112  cd ~
+  113  pwd
+  114  wget localhost
+  115  dir
+  116  wget localhost
+  117  dir
+  118  rm index.html
+  119  rm index.html.
+  120  rm index.html.1
+  121  rm index.html.2
+  122  dir
+  123  history > comandos.txt
+  124  cd ..
+  125  dir etc
+  126  cd etc
+  127  cd httpd
+  128  cd ssl
+  129  dir
+  130  cd
+  131  cd ....
+  132  cd ..
+  133  dir
+  134  cd var
+  135  cd www
+  136  cd html
+  137  git status
+  138  dir
+  139  rm server.crt 
+  140  rm server.key 
+  141  dir
+  142  git status
+  143  dir
+  144  history > comandos.txt
