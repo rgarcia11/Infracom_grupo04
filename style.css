@@ -36,3 +36,15 @@ html{
     padding: 20px;
     text-align: center;
 }
+
+.videos{
+    padding: 30px;
+}
+
+.videos video{
+    padding: 20px;
+}
+
+.imagenes img{
+    height: 300px;
+}
